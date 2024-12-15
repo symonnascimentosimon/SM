@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SM.OrderProducer.API.props" />
+</Project>

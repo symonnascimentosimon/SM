@@ -1,0 +1,6 @@
+@SM.OrderProducer_HostAddress = http://localhost:5199
+
+GET {{SM.OrderProducer_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

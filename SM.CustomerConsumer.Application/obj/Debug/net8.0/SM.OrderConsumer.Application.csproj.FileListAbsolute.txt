@@ -1,0 +1,17 @@
+C:\Users\s.simon\Desktop\Estudos\RebbitMQ\SalesManagement\SM.OrderConsumer.Application\bin\Debug\net8.0\SM.OrderConsumer.Application.deps.json
+C:\Users\s.simon\Desktop\Estudos\RebbitMQ\SalesManagement\SM.OrderConsumer.Application\bin\Debug\net8.0\SM.OrderConsumer.Application.dll
+C:\Users\s.simon\Desktop\Estudos\RebbitMQ\SalesManagement\SM.OrderConsumer.Application\bin\Debug\net8.0\SM.OrderConsumer.Application.pdb
+C:\Users\s.simon\Desktop\Estudos\RebbitMQ\SalesManagement\SM.OrderConsumer.Application\obj\Debug\net8.0\SM.OrderConsumer.Application.csproj.AssemblyReference.cache
+C:\Users\s.simon\Desktop\Estudos\RebbitMQ\SalesManagement\SM.OrderConsumer.Application\obj\Debug\net8.0\SM.OrderConsumer.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s.simon\Desktop\Estudos\RebbitMQ\SalesManagement\SM.OrderConsumer.Application\obj\Debug\net8.0\SM.OrderConsumer.Application.AssemblyInfoInputs.cache
+C:\Users\s.simon\Desktop\Estudos\RebbitMQ\SalesManagement\SM.OrderConsumer.Application\obj\Debug\net8.0\SM.OrderConsumer.Application.AssemblyInfo.cs
+C:\Users\s.simon\Desktop\Estudos\RebbitMQ\SalesManagement\SM.OrderConsumer.Application\obj\Debug\net8.0\SM.OrderConsumer.Application.csproj.CoreCompileInputs.cache
+C:\Users\s.simon\Desktop\Estudos\RebbitMQ\SalesManagement\SM.OrderConsumer.Application\obj\Debug\net8.0\SM.OrderConsumer.Application.dll
+C:\Users\s.simon\Desktop\Estudos\RebbitMQ\SalesManagement\SM.OrderConsumer.Application\obj\Debug\net8.0\refint\SM.OrderConsumer.Application.dll
+C:\Users\s.simon\Desktop\Estudos\RebbitMQ\SalesManagement\SM.OrderConsumer.Application\obj\Debug\net8.0\SM.OrderConsumer.Application.pdb
+C:\Users\s.simon\Desktop\Estudos\RebbitMQ\SalesManagement\SM.OrderConsumer.Application\obj\Debug\net8.0\ref\SM.OrderConsumer.Application.dll
+C:\Users\s.simon\Desktop\Estudos\RebbitMQ\SalesManagement\SM.OrderConsumer.Application\bin\Debug\net8.0\SM.Shared.dll
+C:\Users\s.simon\Desktop\Estudos\RebbitMQ\SalesManagement\SM.OrderConsumer.Application\bin\Debug\net8.0\SM.Shared.pdb
+C:\Users\s.simon\Desktop\Estudos\RebbitMQ\SalesManagement\SM.OrderConsumer.Application\obj\Debug\net8.0\SM.Order.82B5BAF8.Up2Date
+C:\Users\s.simon\Desktop\Estudos\RebbitMQ\SalesManagement\SM.OrderConsumer.Application\bin\Debug\net8.0\SM.OrderConsumer.Domain.dll
+C:\Users\s.simon\Desktop\Estudos\RebbitMQ\SalesManagement\SM.OrderConsumer.Application\bin\Debug\net8.0\SM.OrderConsumer.Domain.pdb

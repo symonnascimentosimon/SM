@@ -1,0 +1,12 @@
+C:\Users\s.simon\Desktop\Estudos\RebbitMQ\SalesManagement\SM.CustomerProducer.Domain\bin\Debug\net8.0\SM.CustomerProducer.Domain.deps.json
+C:\Users\s.simon\Desktop\Estudos\RebbitMQ\SalesManagement\SM.CustomerProducer.Domain\bin\Debug\net8.0\SM.CustomerProducer.Domain.dll
+C:\Users\s.simon\Desktop\Estudos\RebbitMQ\SalesManagement\SM.CustomerProducer.Domain\bin\Debug\net8.0\SM.CustomerProducer.Domain.pdb
+C:\Users\s.simon\Desktop\Estudos\RebbitMQ\SalesManagement\SM.CustomerProducer.Domain\obj\Debug\net8.0\SM.CustomerProducer.Domain.csproj.AssemblyReference.cache
+C:\Users\s.simon\Desktop\Estudos\RebbitMQ\SalesManagement\SM.CustomerProducer.Domain\obj\Debug\net8.0\SM.CustomerProducer.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s.simon\Desktop\Estudos\RebbitMQ\SalesManagement\SM.CustomerProducer.Domain\obj\Debug\net8.0\SM.CustomerProducer.Domain.AssemblyInfoInputs.cache
+C:\Users\s.simon\Desktop\Estudos\RebbitMQ\SalesManagement\SM.CustomerProducer.Domain\obj\Debug\net8.0\SM.CustomerProducer.Domain.AssemblyInfo.cs
+C:\Users\s.simon\Desktop\Estudos\RebbitMQ\SalesManagement\SM.CustomerProducer.Domain\obj\Debug\net8.0\SM.CustomerProducer.Domain.csproj.CoreCompileInputs.cache
+C:\Users\s.simon\Desktop\Estudos\RebbitMQ\SalesManagement\SM.CustomerProducer.Domain\obj\Debug\net8.0\SM.CustomerProducer.Domain.dll
+C:\Users\s.simon\Desktop\Estudos\RebbitMQ\SalesManagement\SM.CustomerProducer.Domain\obj\Debug\net8.0\refint\SM.CustomerProducer.Domain.dll
+C:\Users\s.simon\Desktop\Estudos\RebbitMQ\SalesManagement\SM.CustomerProducer.Domain\obj\Debug\net8.0\SM.CustomerProducer.Domain.pdb
+C:\Users\s.simon\Desktop\Estudos\RebbitMQ\SalesManagement\SM.CustomerProducer.Domain\obj\Debug\net8.0\ref\SM.CustomerProducer.Domain.dll

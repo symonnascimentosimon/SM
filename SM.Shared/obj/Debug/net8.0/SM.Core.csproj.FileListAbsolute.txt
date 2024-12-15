@@ -1,0 +1,11 @@
+C:\Users\s.simon\Desktop\Estudos\RebbitMQ\SalesManagement\SM.Core\bin\Debug\net8.0\SM.Core.deps.json
+C:\Users\s.simon\Desktop\Estudos\RebbitMQ\SalesManagement\SM.Core\bin\Debug\net8.0\SM.Core.dll
+C:\Users\s.simon\Desktop\Estudos\RebbitMQ\SalesManagement\SM.Core\bin\Debug\net8.0\SM.Core.pdb
+C:\Users\s.simon\Desktop\Estudos\RebbitMQ\SalesManagement\SM.Core\obj\Debug\net8.0\SM.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s.simon\Desktop\Estudos\RebbitMQ\SalesManagement\SM.Core\obj\Debug\net8.0\SM.Core.AssemblyInfoInputs.cache
+C:\Users\s.simon\Desktop\Estudos\RebbitMQ\SalesManagement\SM.Core\obj\Debug\net8.0\SM.Core.AssemblyInfo.cs
+C:\Users\s.simon\Desktop\Estudos\RebbitMQ\SalesManagement\SM.Core\obj\Debug\net8.0\SM.Core.csproj.CoreCompileInputs.cache
+C:\Users\s.simon\Desktop\Estudos\RebbitMQ\SalesManagement\SM.Core\obj\Debug\net8.0\SM.Core.dll
+C:\Users\s.simon\Desktop\Estudos\RebbitMQ\SalesManagement\SM.Core\obj\Debug\net8.0\refint\SM.Core.dll
+C:\Users\s.simon\Desktop\Estudos\RebbitMQ\SalesManagement\SM.Core\obj\Debug\net8.0\SM.Core.pdb
+C:\Users\s.simon\Desktop\Estudos\RebbitMQ\SalesManagement\SM.Core\obj\Debug\net8.0\ref\SM.Core.dll

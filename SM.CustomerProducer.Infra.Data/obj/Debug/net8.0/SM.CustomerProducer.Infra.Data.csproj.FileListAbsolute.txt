@@ -1,0 +1,15 @@
+C:\Users\s.simon\Desktop\Estudos\RebbitMQ\SalesManagement\SM.CustomerProducer.Infra.Data\bin\Debug\net8.0\SM.CustomerProducer.Infra.Data.deps.json
+C:\Users\s.simon\Desktop\Estudos\RebbitMQ\SalesManagement\SM.CustomerProducer.Infra.Data\bin\Debug\net8.0\SM.CustomerProducer.Infra.Data.dll
+C:\Users\s.simon\Desktop\Estudos\RebbitMQ\SalesManagement\SM.CustomerProducer.Infra.Data\bin\Debug\net8.0\SM.CustomerProducer.Infra.Data.pdb
+C:\Users\s.simon\Desktop\Estudos\RebbitMQ\SalesManagement\SM.CustomerProducer.Infra.Data\bin\Debug\net8.0\SM.CustomerProducer.Domain.dll
+C:\Users\s.simon\Desktop\Estudos\RebbitMQ\SalesManagement\SM.CustomerProducer.Infra.Data\bin\Debug\net8.0\SM.CustomerProducer.Domain.pdb
+C:\Users\s.simon\Desktop\Estudos\RebbitMQ\SalesManagement\SM.CustomerProducer.Infra.Data\obj\Debug\net8.0\SM.CustomerProducer.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\s.simon\Desktop\Estudos\RebbitMQ\SalesManagement\SM.CustomerProducer.Infra.Data\obj\Debug\net8.0\SM.CustomerProducer.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\s.simon\Desktop\Estudos\RebbitMQ\SalesManagement\SM.CustomerProducer.Infra.Data\obj\Debug\net8.0\SM.CustomerProducer.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\s.simon\Desktop\Estudos\RebbitMQ\SalesManagement\SM.CustomerProducer.Infra.Data\obj\Debug\net8.0\SM.CustomerProducer.Infra.Data.AssemblyInfo.cs
+C:\Users\s.simon\Desktop\Estudos\RebbitMQ\SalesManagement\SM.CustomerProducer.Infra.Data\obj\Debug\net8.0\SM.CustomerProducer.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\s.simon\Desktop\Estudos\RebbitMQ\SalesManagement\SM.CustomerProducer.Infra.Data\obj\Debug\net8.0\SM.Custo.24098B93.Up2Date
+C:\Users\s.simon\Desktop\Estudos\RebbitMQ\SalesManagement\SM.CustomerProducer.Infra.Data\obj\Debug\net8.0\SM.CustomerProducer.Infra.Data.dll
+C:\Users\s.simon\Desktop\Estudos\RebbitMQ\SalesManagement\SM.CustomerProducer.Infra.Data\obj\Debug\net8.0\refint\SM.CustomerProducer.Infra.Data.dll
+C:\Users\s.simon\Desktop\Estudos\RebbitMQ\SalesManagement\SM.CustomerProducer.Infra.Data\obj\Debug\net8.0\SM.CustomerProducer.Infra.Data.pdb
+C:\Users\s.simon\Desktop\Estudos\RebbitMQ\SalesManagement\SM.CustomerProducer.Infra.Data\obj\Debug\net8.0\ref\SM.CustomerProducer.Infra.Data.dll

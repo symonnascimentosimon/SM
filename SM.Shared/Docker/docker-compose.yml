@@ -1,0 +1,52 @@
+﻿volumes:
+  mssql_data:
+  rabbitmq_data:
+    
+networks:
+  sm_network:
+    driver: bridge
+    
+services:
+  rabbitmq:
+    image: rabbitmq:4-management
+    container_name: rabbitmq
+    ports:
+      - "1001:5672"
+      - "1002:15672"
+    networks:
+      - sm_network
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+    environment:
+      RABBITMQ_DEFAULT_USER: admin
+      RABBITMQ_DEFAULT_PASS: admin
+    volumes:
+      - rabbitmq_data:/var/lib/rabbitmq
+        
+  db:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    container_name: mssql
+    environment:
+      - ACCEPT_EULA=Y
+      - SA_PASSWORD=ForDevelopment@2024
+      - MSSQL_TCP_PORT= 1433
+    ports:
+      - "1003:1433"
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+    networks:
+      - sm_network
+    volumes:
+      - ./MSSQL/init.sql:/init.sql
+      - ./MSSQL/data:/var/opt/mssql/data
+      - ./MSSQL/log:/var/opt/mssql/log
+      - ./MSSQL/secrets:/var/opt/mssql/secrets
+#    entrypoint: >
+#     bash -c "
+#             /opt/mssql/bin/sqlservr & 
+#             sleep 30s &&
+#             apt-get update && apt-get install -y mssql-tools unixodbc-dev && 
+#             /opt/mssql-tools/bin/sqlcmd -S localhost -U sa -P ForDevelopment@2024 -i /init.sql
+#           "
+    user: root
+

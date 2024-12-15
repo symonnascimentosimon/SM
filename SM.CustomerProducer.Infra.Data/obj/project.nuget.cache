@@ -1,0 +1,26 @@
+{
+  "version": 2,
+  "dgSpecHash": "ECzbpOUYPag=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\s.simon\\Desktop\\Estudos\\RebbitMQ\\SalesManagement\\SM.CustomerProducer.Infra.Data\\SM.CustomerProducer.Infra.Data.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\s.simon\\.nuget\\packages\\masstransit\\8.3.3-develop.2143\\masstransit.8.3.3-develop.2143.nupkg.sha512",
+    "C:\\Users\\s.simon\\.nuget\\packages\\masstransit.abstractions\\8.3.3-develop.2143\\masstransit.abstractions.8.3.3-develop.2143.nupkg.sha512",
+    "C:\\Users\\s.simon\\.nuget\\packages\\masstransit.rabbitmq\\8.3.3-develop.2143\\masstransit.rabbitmq.8.3.3-develop.2143.nupkg.sha512",
+    "C:\\Users\\s.simon\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\9.0.0\\microsoft.extensions.configuration.abstractions.9.0.0.nupkg.sha512",
+    "C:\\Users\\s.simon\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\s.simon\\.nuget\\packages\\microsoft.extensions.diagnostics.abstractions\\8.0.0\\microsoft.extensions.diagnostics.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\s.simon\\.nuget\\packages\\microsoft.extensions.diagnostics.healthchecks\\8.0.0\\microsoft.extensions.diagnostics.healthchecks.8.0.0.nupkg.sha512",
+    "C:\\Users\\s.simon\\.nuget\\packages\\microsoft.extensions.diagnostics.healthchecks.abstractions\\8.0.0\\microsoft.extensions.diagnostics.healthchecks.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\s.simon\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\8.0.0\\microsoft.extensions.fileproviders.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\s.simon\\.nuget\\packages\\microsoft.extensions.hosting.abstractions\\8.0.0\\microsoft.extensions.hosting.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\s.simon\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\s.simon\\.nuget\\packages\\microsoft.extensions.options\\8.0.0\\microsoft.extensions.options.8.0.0.nupkg.sha512",
+    "C:\\Users\\s.simon\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.0\\microsoft.extensions.primitives.9.0.0.nupkg.sha512",
+    "C:\\Users\\s.simon\\.nuget\\packages\\rabbitmq.client\\7.0.0\\rabbitmq.client.7.0.0.nupkg.sha512",
+    "C:\\Users\\s.simon\\.nuget\\packages\\system.diagnostics.diagnosticsource\\8.0.0\\system.diagnostics.diagnosticsource.8.0.0.nupkg.sha512",
+    "C:\\Users\\s.simon\\.nuget\\packages\\system.io.pipelines\\8.0.0\\system.io.pipelines.8.0.0.nupkg.sha512",
+    "C:\\Users\\s.simon\\.nuget\\packages\\system.threading.ratelimiting\\8.0.0\\system.threading.ratelimiting.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

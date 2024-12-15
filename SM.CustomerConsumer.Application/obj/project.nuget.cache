@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "p9fYmM0lleM=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\s.simon\\Desktop\\Estudos\\RebbitMQ\\SalesManagement\\SM.CustomerConsumer.Application\\SM.CustomerConsumer.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\s.simon\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
+    "C:\\Users\\s.simon\\.nuget\\packages\\masstransit.abstractions\\8.3.3-develop.2143\\masstransit.abstractions.8.3.3-develop.2143.nupkg.sha512",
+    "C:\\Users\\s.simon\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\s.simon\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\s.simon\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\s.simon\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

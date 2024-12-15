@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\SM.OrderProducer.API.props" />
+</Project>

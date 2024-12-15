@@ -1,0 +1,489 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\s.simon\\Desktop\\Estudos\\RebbitMQ\\SalesManagement\\SM.OrderConsumer.Infra.IoC\\SM.OrderConsumer.Infra.IoC.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\s.simon\\Desktop\\Estudos\\RebbitMQ\\SalesManagement\\SM.CustomerConsumer.Application\\SM.CustomerConsumer.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\s.simon\\Desktop\\Estudos\\RebbitMQ\\SalesManagement\\SM.CustomerConsumer.Application\\SM.CustomerConsumer.Application.csproj",
+        "projectName": "SM.CustomerConsumer.Application",
+        "projectPath": "C:\\Users\\s.simon\\Desktop\\Estudos\\RebbitMQ\\SalesManagement\\SM.CustomerConsumer.Application\\SM.CustomerConsumer.Application.csproj",
+        "packagesPath": "C:\\Users\\s.simon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\s.simon\\Desktop\\Estudos\\RebbitMQ\\SalesManagement\\SM.CustomerConsumer.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "UsingMicrosoftNETSdk": false,
+        "configFilePaths": [
+          "C:\\Users\\s.simon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\s.simon\\Desktop\\Estudos\\RebbitMQ\\SalesManagement\\SM.OrderConsumer.Domain\\SM.OrderConsumer.Domain.csproj": {
+                "projectPath": "C:\\Users\\s.simon\\Desktop\\Estudos\\RebbitMQ\\SalesManagement\\SM.OrderConsumer.Domain\\SM.OrderConsumer.Domain.csproj"
+              },
+              "C:\\Users\\s.simon\\Desktop\\Estudos\\RebbitMQ\\SalesManagement\\SM.Shared\\SM.Shared.csproj": {
+                "projectPath": "C:\\Users\\s.simon\\Desktop\\Estudos\\RebbitMQ\\SalesManagement\\SM.Shared\\SM.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "MassTransit.Abstractions": {
+              "target": "Package",
+              "version": "[8.3.3-develop.2143, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\s.simon\\Desktop\\Estudos\\RebbitMQ\\SalesManagement\\SM.DbMigrator\\SM.DbMigrator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\s.simon\\Desktop\\Estudos\\RebbitMQ\\SalesManagement\\SM.DbMigrator\\SM.DbMigrator.csproj",
+        "projectName": "SM.DbMigrator",
+        "projectPath": "C:\\Users\\s.simon\\Desktop\\Estudos\\RebbitMQ\\SalesManagement\\SM.DbMigrator\\SM.DbMigrator.csproj",
+        "packagesPath": "C:\\Users\\s.simon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\s.simon\\Desktop\\Estudos\\RebbitMQ\\SalesManagement\\SM.DbMigrator\\obj\\",
+        "projectStyle": "PackageReference",
+        "UsingMicrosoftNETSdk": false,
+        "configFilePaths": [
+          "C:\\Users\\s.simon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\s.simon\\Desktop\\Estudos\\RebbitMQ\\SalesManagement\\SM.Shared\\SM.Shared.csproj": {
+                "projectPath": "C:\\Users\\s.simon\\Desktop\\Estudos\\RebbitMQ\\SalesManagement\\SM.Shared\\SM.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\s.simon\\Desktop\\Estudos\\RebbitMQ\\SalesManagement\\SM.OrderConsumer.Domain\\SM.OrderConsumer.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\s.simon\\Desktop\\Estudos\\RebbitMQ\\SalesManagement\\SM.OrderConsumer.Domain\\SM.OrderConsumer.Domain.csproj",
+        "projectName": "SM.OrderConsumer.Domain",
+        "projectPath": "C:\\Users\\s.simon\\Desktop\\Estudos\\RebbitMQ\\SalesManagement\\SM.OrderConsumer.Domain\\SM.OrderConsumer.Domain.csproj",
+        "packagesPath": "C:\\Users\\s.simon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\s.simon\\Desktop\\Estudos\\RebbitMQ\\SalesManagement\\SM.OrderConsumer.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "UsingMicrosoftNETSdk": false,
+        "configFilePaths": [
+          "C:\\Users\\s.simon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\s.simon\\Desktop\\Estudos\\RebbitMQ\\SalesManagement\\SM.Shared\\SM.Shared.csproj": {
+                "projectPath": "C:\\Users\\s.simon\\Desktop\\Estudos\\RebbitMQ\\SalesManagement\\SM.Shared\\SM.Shared.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\s.simon\\Desktop\\Estudos\\RebbitMQ\\SalesManagement\\SM.OrderConsumer.Infra.Data\\SM.OrderConsumer.Infra.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\s.simon\\Desktop\\Estudos\\RebbitMQ\\SalesManagement\\SM.OrderConsumer.Infra.Data\\SM.OrderConsumer.Infra.Data.csproj",
+        "projectName": "SM.OrderConsumer.Infra.Data",
+        "projectPath": "C:\\Users\\s.simon\\Desktop\\Estudos\\RebbitMQ\\SalesManagement\\SM.OrderConsumer.Infra.Data\\SM.OrderConsumer.Infra.Data.csproj",
+        "packagesPath": "C:\\Users\\s.simon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\s.simon\\Desktop\\Estudos\\RebbitMQ\\SalesManagement\\SM.OrderConsumer.Infra.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "UsingMicrosoftNETSdk": false,
+        "configFilePaths": [
+          "C:\\Users\\s.simon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\s.simon\\Desktop\\Estudos\\RebbitMQ\\SalesManagement\\SM.DbMigrator\\SM.DbMigrator.csproj": {
+                "projectPath": "C:\\Users\\s.simon\\Desktop\\Estudos\\RebbitMQ\\SalesManagement\\SM.DbMigrator\\SM.DbMigrator.csproj"
+              },
+              "C:\\Users\\s.simon\\Desktop\\Estudos\\RebbitMQ\\SalesManagement\\SM.OrderConsumer.Domain\\SM.OrderConsumer.Domain.csproj": {
+                "projectPath": "C:\\Users\\s.simon\\Desktop\\Estudos\\RebbitMQ\\SalesManagement\\SM.OrderConsumer.Domain\\SM.OrderConsumer.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\s.simon\\Desktop\\Estudos\\RebbitMQ\\SalesManagement\\SM.OrderConsumer.Infra.IoC\\SM.OrderConsumer.Infra.IoC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\s.simon\\Desktop\\Estudos\\RebbitMQ\\SalesManagement\\SM.OrderConsumer.Infra.IoC\\SM.OrderConsumer.Infra.IoC.csproj",
+        "projectName": "SM.OrderConsumer.Infra.IoC",
+        "projectPath": "C:\\Users\\s.simon\\Desktop\\Estudos\\RebbitMQ\\SalesManagement\\SM.OrderConsumer.Infra.IoC\\SM.OrderConsumer.Infra.IoC.csproj",
+        "packagesPath": "C:\\Users\\s.simon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\s.simon\\Desktop\\Estudos\\RebbitMQ\\SalesManagement\\SM.OrderConsumer.Infra.IoC\\obj\\",
+        "projectStyle": "PackageReference",
+        "UsingMicrosoftNETSdk": false,
+        "configFilePaths": [
+          "C:\\Users\\s.simon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\s.simon\\Desktop\\Estudos\\RebbitMQ\\SalesManagement\\SM.CustomerConsumer.Application\\SM.CustomerConsumer.Application.csproj": {
+                "projectPath": "C:\\Users\\s.simon\\Desktop\\Estudos\\RebbitMQ\\SalesManagement\\SM.CustomerConsumer.Application\\SM.CustomerConsumer.Application.csproj"
+              },
+              "C:\\Users\\s.simon\\Desktop\\Estudos\\RebbitMQ\\SalesManagement\\SM.OrderConsumer.Infra.Data\\SM.OrderConsumer.Infra.Data.csproj": {
+                "projectPath": "C:\\Users\\s.simon\\Desktop\\Estudos\\RebbitMQ\\SalesManagement\\SM.OrderConsumer.Infra.Data\\SM.OrderConsumer.Infra.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MassTransit.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.3.1, )"
+            },
+            "MassTransit.RabbitMQ": {
+              "target": "Package",
+              "version": "[8.3.3-develop.2143, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\s.simon\\Desktop\\Estudos\\RebbitMQ\\SalesManagement\\SM.Shared\\SM.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\s.simon\\Desktop\\Estudos\\RebbitMQ\\SalesManagement\\SM.Shared\\SM.Shared.csproj",
+        "projectName": "SM.Shared",
+        "projectPath": "C:\\Users\\s.simon\\Desktop\\Estudos\\RebbitMQ\\SalesManagement\\SM.Shared\\SM.Shared.csproj",
+        "packagesPath": "C:\\Users\\s.simon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\s.simon\\Desktop\\Estudos\\RebbitMQ\\SalesManagement\\SM.Shared\\obj\\",
+        "projectStyle": "PackageReference",
+        "UsingMicrosoftNETSdk": false,
+        "configFilePaths": [
+          "C:\\Users\\s.simon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

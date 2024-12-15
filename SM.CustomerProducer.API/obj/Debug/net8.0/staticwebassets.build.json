@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "+aOHnoMfjOdwtamdaYCBqjqhuurz6Ioe93+R+Dnajik=",
+  "Source": "SM.CustomerProducer.API",
+  "BasePath": "_content/SM.CustomerProducer.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "KZZaz9dNR3g=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\s.simon\\Desktop\\Estudos\\RebbitMQ\\SalesManagement\\SM.CustomerProducer.Domain\\SM.CustomerProducer.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\s.simon\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\9.0.0\\microsoft.extensions.configuration.abstractions.9.0.0.nupkg.sha512",
+    "C:\\Users\\s.simon\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.0\\microsoft.extensions.primitives.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "uUSnRl9uVa8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\s.simon\\Desktop\\Estudos\\RebbitMQ\\SalesManagement\\SM.CustomerProducer.Application\\SM.CustomerProducer.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\s.simon\\.nuget\\packages\\masstransit.abstractions\\8.3.3-develop.2143\\masstransit.abstractions.8.3.3-develop.2143.nupkg.sha512",
+    "C:\\Users\\s.simon\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\9.0.0\\microsoft.extensions.configuration.abstractions.9.0.0.nupkg.sha512",
+    "C:\\Users\\s.simon\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.0\\microsoft.extensions.primitives.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

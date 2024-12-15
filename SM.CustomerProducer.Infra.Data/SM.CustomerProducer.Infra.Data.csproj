@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net8.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Folder Include="Repositories\" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\SM.CustomerProducer.Domain\SM.CustomerProducer.Domain.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <PackageReference Include="MassTransit.RabbitMQ" Version="8.3.3-develop.2143" />
+      <PackageReference Include="Microsoft.Extensions.Configuration.Abstractions" Version="9.0.0" />
+      <PackageReference Include="RabbitMQ.Client" Version="7.0.0" />
+    </ItemGroup>
+
+</Project>
